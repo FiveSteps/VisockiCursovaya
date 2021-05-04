@@ -5,14 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfVisocki"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Content="Nani" HorizontalAlignment="Left" Margin="10,191,0,0" VerticalAlignment="Top" Width="75" Height="30" Click="Button_Click"/>
+        Title="MainWindow" Height="360" Width="530">
+    <Grid Background="White">
+        <Button Content="Nani" HorizontalAlignment="Left" Margin="10,141,0,0" VerticalAlignment="Top" Width="75" Height="30" Click="Button_Click"/>
         <Label Content="Введите ссылку на файл" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top"/>
-        <TextBox Name="urlBox" HorizontalAlignment="Left" Height="24" Margin="10,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400" Text="C:\\Users\\JackYellow\\Desktop\\testFolder\\test1.txt"/>
-        <TextBox Name="findBox" HorizontalAlignment="Left" Height="70" Margin="10,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="411" Text="to the levels of"/>
+        <TextBox Name="urlBox" HorizontalAlignment="Left" Height="24" Margin="10,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Text="C:\\Users\\JackYellow\\Desktop\\testFolder\\test1.txt"/>
+        <TextBox Name="findBox" HorizontalAlignment="Left" Height="36" Margin="10,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="385" Text="to the levels of"/>
         <Label Content="Введите искомый текст" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top"/>
-        <ListBox Name="output" HorizontalAlignment="Left" Height="160" Margin="10,237,0,0" VerticalAlignment="Top" Width="385"/>
+        <ListBox Name="output" HorizontalAlignment="Left" Height="131" Margin="10,176,0,0" VerticalAlignment="Top" Width="385"/>
+        <Button Content="Выход" HorizontalAlignment="Left" Margin="422,266,0,0" VerticalAlignment="Top" Width="74" Height="41" Click="Button_Click_1"/>
 
     </Grid>
 </Window>
