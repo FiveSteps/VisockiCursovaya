@@ -1,0 +1,15 @@
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\bin\Debug\WpfVisocki.exe.config
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\bin\Debug\WpfVisocki.exe
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\bin\Debug\WpfVisocki.pdb
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\MainWindow.g.cs
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\App.g.cs
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki_MarkupCompile.cache
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki_MarkupCompile.lref
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\MainWindow.baml
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki.g.resources
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki.Properties.Resources.resources
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki.csproj.GenerateResource.cache
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki.exe
+C:\Users\JackYellow\Desktop\WpfVisocki\WpfVisocki\obj\Debug\WpfVisocki.pdb
